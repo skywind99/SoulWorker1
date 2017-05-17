@@ -1,0 +1,73 @@
+{
+  "project_info": {
+    "project_number": "292577237422",
+    "firebase_url": "https://javacafetest06-adbdc.firebaseio.com",
+    "project_id": "javacafetest06-adbdc",
+    "storage_bucket": "javacafetest06-adbdc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:292577237422:android:f91a836852548424",
+        "android_client_info": {
+          "package_name": "dasd.cc"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "292577237422-isk9ad83a8u58tual0kjvo0or1521f4n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDMLeoKHilxpORFOVvmVm-F2tG2qYtbiLM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:292577237422:android:19c1ad4065a6bf17",
+        "android_client_info": {
+          "package_name": "com.namyangju.soulworker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "292577237422-isk9ad83a8u58tual0kjvo0or1521f4n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDMLeoKHilxpORFOVvmVm-F2tG2qYtbiLM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
